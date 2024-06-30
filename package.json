@@ -1,0 +1,8 @@
+{
+  "author": "Omar Baldi",
+  "name": "ts-custom-types",
+  "version": "1.0.0",
+  "devDependencies": {
+    "typescript": "^5.5.2"
+  }
+}
